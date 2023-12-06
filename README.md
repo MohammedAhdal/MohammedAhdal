@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Alahdal
 ========================================================================================================================================
 
@@ -46,4 +45,4 @@ With over 13 years of experience as a web content administrator at the Royal Emb
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/MohammedAhdal/Football-Analysis-and-Clustring" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedAhdal&repo=Football-Team-Player-Performances-Analysis&title_color=0891b2&text_color=0f172a&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/MohammedAhdal/Country-Data-for-Charity-Clustering" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedAhdal&repo=Country-Data-for-Charity-Clustering&title_color=0891b2&text_color=0f172a&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/MohammedAhdal/Football-Analysis-and-Clustring" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedAhdal&repo=Football-Analysis-and-Clustring&title_color=0891b2&text_color=0f172a&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/MohammedAhdal/Country-Data-for-Charity-Clustering" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedAhdal&repo=Country-Data-for-Charity-Clustering&title_color=0891b2&text_color=0f172a&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

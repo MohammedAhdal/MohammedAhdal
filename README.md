@@ -54,6 +54,7 @@ Socials
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
 </picture>
 </a></p>
-### Badges
+
+Badges
 
 <b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/MohammedAhdal/Football-Team-Player-Performances-Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedAhdal&repo=Football-Team-Player-Performances-Analysis&title_color=0891b2&text_color=0f172a&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/MohammedAhdal/Country-Data-for-Charity-Clustering" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedAhdal&repo=Country-Data-for-Charity-Clustering&title_color=0891b2&text_color=0f172a&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br />
